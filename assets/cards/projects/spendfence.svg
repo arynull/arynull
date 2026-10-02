@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="168" viewBox="0 0 400 168" role="img">
 <defs>
     <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+      <stop offset="0" stop-color="#4a4a4a"/><stop offset="1" stop-color="#262626"/>
     </linearGradient>
     <linearGradient id="panelg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#141b26"/><stop offset="1" stop-color="#0d1117"/>
+      <stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#0a0a0a"/>
     </linearGradient>
   </defs>
-<rect x="1" y="1" width="398" height="166" rx="14" fill="url(#panelg)" stroke="rgba(148,163,184,0.16)"/>
-<rect x="1" y="1" width="398" height="4" rx="2" fill="url(#acc)" opacity="0.85"/>
-<text x="22" y="44" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#e6edf3">spendfence</text>
-<rect x="307.6" y="24" width="68" height="22" rx="11" fill="none" stroke="#a78bfa" stroke-width="1"/>
-<text x="342" y="40" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11.5" fill="#a78bfa">v0.1.0</text>
-<text x="22" y="72" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">Kill switch for agent spend:</text>
-<text x="22" y="92" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">per-session/project dollar caps, token</text>
-<text x="22" y="112" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">metering, and spend attribution for coding</text>
-<circle cx="30" cy="140" r="6" fill="#3572A5"/>
-<text x="44" y="144" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3">Python</text>
-<text x="304" y="144" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#fbbf24">★ 1</text>
-<text x="372" y="144" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">⑂ 0</text>
+<rect x="1" y="1" width="398" height="166" rx="14" fill="url(#panelg)" stroke="rgba(255,255,255,0.08)"/>
+<rect x="20" y="1" width="360" height="2" fill="#2e2e2e"/>
+<text x="22" y="44" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#e5e5e5">spendfence</text>
+<rect x="307.6" y="24" width="68" height="22" rx="11" fill="none" stroke="#525252" stroke-width="1"/>
+<text x="342" y="40" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11.5" fill="#a3a3a3">v0.1.0</text>
+<text x="22" y="72" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#737373">Kill switch for agent spend:</text>
+<text x="22" y="92" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#737373">per-session/project dollar caps, token</text>
+<text x="22" y="112" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#737373">metering, and spend attribution for coding</text>
+<circle cx="30" cy="140" r="6" fill="#737373"/>
+<text x="44" y="144" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#e5e5e5">Python</text>
+<text x="304" y="144" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#d4d4d4">★ 1</text>
+<text x="372" y="144" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5" fill="#737373">⑂ 0</text>
 </svg>
