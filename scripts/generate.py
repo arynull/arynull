@@ -303,6 +303,39 @@ def project_cards(d: dict) -> None:
     write_svg("projects/more.svg", p)
 
 
+def transmission_card() -> None:
+    """Static creative piece: a binary grid hiding an encoded message in
+    brighter bits among dim noise — monochrome, motion-free, mysterious."""
+    import random
+    w, h = 800, 348
+    msg = "build in silence"
+    bits = "".join(f"{ord(c):08b}" for c in msg)  # 16 chars -> 128 bits
+    cols, rows = 32, 8  # message fills rows 3..6 exactly (4*32 = 128)
+    rng = random.Random(7)  # deterministic noise
+    p = card_open(w, h, "Transmission", "")
+    fs, ls = 15, 4
+    adv = 9 + ls
+    x0 = (w - (cols * adv - ls)) / 2
+    y0, lh = 96, 25
+    for r in range(rows):
+        tspans = []
+        for c in range(cols):
+            if 3 <= r <= 6:
+                bit = bits[(r - 3) * cols + c]
+                fill = "#cfcfcf"
+            else:
+                bit = str(rng.getrandbits(1))
+                fill = "#2b2b2b"
+            tspans.append(f'<tspan fill="{fill}">{bit}</tspan>')
+        p.append(f'<text x="{x0:.0f}" y="{y0 + r * lh}" font-family="ui-monospace,Menlo,Consolas,monospace" '
+                 f'font-size="{fs}" letter-spacing="{ls}">{"".join(tspans)}</text>')
+    p.append(f'<text x="{w / 2:.0f}" y="{h - 28}" text-anchor="middle" '
+             f'font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#525252">'
+             f'&gt; decoded: <tspan fill="#a3a3a3">"build in silence"</tspan></text>')
+    p.append("</svg>")
+    write_svg("transmission.svg", p)
+
+
 def main() -> int:
     try:
         data = fetch_data()
@@ -312,6 +345,7 @@ def main() -> int:
     overview_card(data)
     languages_card(data)
     rhythm_card(data)
+    transmission_card()
     project_cards(data)
     print("done")
     return 0

@@ -33,11 +33,9 @@
   <img src="assets/cards/rhythm.svg" width="100%" alt="rhythm"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayanalpha/rayanalpha/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayanalpha/rayanalpha/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/rayanalpha/rayanalpha/output/github-snake-dark.svg" width="100%" alt="contributions"/>
-</picture>
+<p align="center">
+  <img src="assets/cards/transmission.svg" width="100%" alt="transmission"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
