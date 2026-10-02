@@ -174,7 +174,7 @@ def header() -> list[str]:
     p = panel_open(0, 0, 800, 90)
     p.append(f'<text x="24" y="44" font-family="{MONO}" font-size="28" font-weight="300" fill="{INK}">arynull</text>')
     p.append(f'<text x="24" y="72" font-family="{MONO}" font-size="14" fill="{LIME}">software engineer</text>')
-    p.append(f'<text x="776" y="44" text-anchor="end" font-family="{SANS}" font-size="12" fill="{MUTED}">[ Tehran, IR ]</text>')
+    p.append(f'<text x="776" y="44" text-anchor="end" font-family="{SANS}" font-size="12" fill="{MUTED}">[ Iran ]</text>')
     p.append("</g>")
     return p
 
