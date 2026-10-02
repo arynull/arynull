@@ -1,5 +1,5 @@
-<!-- rayanalpha -->
+<!-- arynull -->
 
 <p align="center">
-  <img src="assets/profile.svg" width="100%" alt="rayanalpha"/>
+  <img src="assets/profile.svg" width="100%" alt="arynull"/>
 </p>
