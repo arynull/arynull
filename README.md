@@ -116,7 +116,8 @@ class RayanAlpha:
 
 <p align="center">
   <a href="https://github.com/rayanalpha"><img src="https://img.shields.io/badge/GitHub-rayanalpha-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://instagram.com/theonlyonetruex"><img src="https://img.shields.io/badge/Instagram-theonlyonetruex-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
+  <a href="https://t.me/SameOldAryan"><img src="https://img.shields.io/badge/Telegram-SameOldAryan-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/></a>
+  <a href="https://instagram.com/th3.rayan"><img src="https://img.shields.io/badge/Instagram-th3.rayan-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
 </p>
 
 <p align="center">
