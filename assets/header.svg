@@ -33,17 +33,11 @@
   <rect width="1200" height="380" fill="url(#bg)"/>
   <rect width="1200" height="380" fill="url(#dots)"/>
 
-  <!-- drifting aurora blobs -->
+  <!-- static aurora blobs -->
   <g filter="url(#soft)">
-    <ellipse cx="260" cy="120" rx="230" ry="150" fill="url(#glowC)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 90 40; -40 70; 0 0" dur="16s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="920" cy="260" rx="260" ry="160" fill="url(#glowV)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; -80 -50; 60 -30; 0 0" dur="19s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="640" cy="90" rx="180" ry="120" fill="url(#glowP)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 60 60; -70 20; 0 0" dur="14s" repeatCount="indefinite"/>
-    </ellipse>
+    <ellipse cx="260" cy="120" rx="230" ry="150" fill="url(#glowC)"/>
+    <ellipse cx="920" cy="260" rx="260" ry="160" fill="url(#glowV)"/>
+    <ellipse cx="640" cy="90" rx="180" ry="120" fill="url(#glowP)"/>
   </g>
 
   <!-- code rain columns -->
@@ -64,13 +58,9 @@
     <text x="675" y="288" text-anchor="middle" fill="#c4b5fd">✦ open source</text>
   </g>
 
-  <!-- animated waves -->
+  <!-- static waves -->
   <g opacity="0.5">
-    <path d="M-600 330 Q -450 300 -300 330 T 0 330 T 300 330 T 600 330 T 900 330 T 1200 330 T 1500 330 T 1800 330 V 380 H -600 Z" fill="#22d3ee" opacity="0.14">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="9s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-600 345 Q -450 318 -300 345 T 0 345 T 300 345 T 600 345 T 900 345 T 1200 345 T 1500 345 T 1800 345 V 380 H -600 Z" fill="#a78bfa" opacity="0.18">
-      <animateTransform attributeName="transform" type="translate" from="600 0" to="0 0" dur="12s" repeatCount="indefinite"/>
-    </path>
+    <path d="M-600 330 Q -450 300 -300 330 T 0 330 T 300 330 T 600 330 T 900 330 T 1200 330 T 1500 330 T 1800 330 V 380 H -600 Z" fill="#22d3ee" opacity="0.14"/>
+    <path d="M-600 345 Q -450 318 -300 345 T 0 345 T 300 345 T 600 345 T 900 345 T 1200 345 T 1500 345 T 1800 345 V 380 H -600 Z" fill="#a78bfa" opacity="0.18"/>
   </g>
 </svg>

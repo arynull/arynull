@@ -234,8 +234,7 @@ def languages_card(d: dict) -> None:
         p.append(f'<circle cx="40" cy="{y + 6}" r="6" fill="{esc(color)}"/>')
         p.append(f'<text x="56" y="{y + 11}" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13.5" fill="{TEXT}">{esc(name)}</text>')
         p.append(f'<rect x="{bar_x}" y="{y}" width="{bar_w}" height="12" rx="6" fill="#1c2330"/>')
-        p.append(f'<rect x="{bar_x}" y="{y}" width="{bw:.0f}" height="12" rx="6" fill="{esc(color)}">'
-                 f'<animate attributeName="width" from="0" to="{bw:.0f}" dur="1.1s" fill="freeze"/></rect>')
+        p.append(f'<rect x="{bar_x}" y="{y}" width="{bw:.0f}" height="12" rx="6" fill="{esc(color)}"/>')
         p.append(f'<text x="{w - 28}" y="{y + 11}" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" '
                  f'font-size="12.5" fill="{MUTED}">{pct:.1f}%</text>')
     p.append("</svg>")
@@ -252,9 +251,7 @@ def rhythm_card(d: dict) -> None:
         bh = max(6, max_h * v / peak)
         x = left + i * gap
         c = ACCENTS[i % len(ACCENTS)]
-        p.append(f'<rect x="{x}" y="{base_y - bh:.0f}" width="34" height="{bh:.0f}" rx="7" fill="{c}" opacity="0.85">'
-                 f'<animate attributeName="height" from="6" to="{bh:.0f}" dur="0.9s" fill="freeze"/>'
-                 f'<animate attributeName="y" from="{base_y - 6}" to="{base_y - bh:.0f}" dur="0.9s" fill="freeze"/></rect>')
+        p.append(f'<rect x="{x}" y="{base_y - bh:.0f}" width="34" height="{bh:.0f}" rx="7" fill="{c}" opacity="0.85"/>')
         p.append(f'<text x="{x + 17}" y="{base_y + 20}" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" '
                  f'font-size="11" fill="{MUTED}">W{i + 1}</text>')
         p.append(f'<text x="{x + 17}" y="{base_y - bh - 8:.0f}" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" '

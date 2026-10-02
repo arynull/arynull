@@ -23,7 +23,7 @@
 <text x="400" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#8b949e">PUBLIC REPOS</text>
 <line x1="474" y1="80" x2="474" y2="160" stroke="rgba(148,163,184,0.16)" stroke-width="1"/>
 <text x="549" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#34d399">◈</text>
-<text x="549" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e6edf3">497</text>
+<text x="549" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e6edf3">503</text>
 <text x="549" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#8b949e">CONTRIBUTIONS / YR</text>
 <line x1="623" y1="80" x2="623" y2="160" stroke="rgba(148,163,184,0.16)" stroke-width="1"/>
 <text x="698" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#fbbf24">◐</text>
