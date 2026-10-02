@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate rayanalpha's GitHub profile card in the GitAscii style
+"""Generate arynull's GitHub profile card in the GitAscii style
 (Igorcbraz/GitAscii): near-black widget panels, lime "+" corner marks,
 ASCII avatar, neofetch terminal panel, top-languages bar, skills chips,
 static contribution grid. Self-hosted, stdlib-only, refreshed by
@@ -15,7 +15,7 @@ import urllib.error
 import urllib.request
 from datetime import date
 
-USER = "rayanalpha"
+USER = "arynull"
 API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "assets")
@@ -52,7 +52,7 @@ def _req(path: str, data: bytes | None = None) -> urllib.request.Request:
     headers = {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "rayanalpha-profile-card",
+        "User-Agent": "arynull-profile-card",
     }
     if TOKEN:
         headers["Authorization"] = f"Bearer {TOKEN}"
@@ -172,7 +172,7 @@ def term_rule(x: int, y: int, title: str, width: int = 36) -> str:
 
 def header() -> list[str]:
     p = panel_open(0, 0, 800, 90)
-    p.append(f'<text x="24" y="44" font-family="{MONO}" font-size="28" font-weight="300" fill="{INK}">rayanalpha</text>')
+    p.append(f'<text x="24" y="44" font-family="{MONO}" font-size="28" font-weight="300" fill="{INK}">arynull</text>')
     p.append(f'<text x="24" y="72" font-family="{MONO}" font-size="14" fill="{LIME}">software engineer</text>')
     p.append(f'<text x="776" y="44" text-anchor="end" font-family="{SANS}" font-size="12" fill="{MUTED}">[ Tehran, IR ]</text>')
     p.append("</g>")
@@ -205,7 +205,7 @@ def terminal_panel(d: dict) -> list[str]:
     x0, w = 296, 504
     p = panel_open(x0, 106, w, 280)
     x, y0, st = 24, 30, 18
-    p.append(term_rule(x, y0, "rayanalpha@github")); y = y0 + st
+    p.append(term_rule(x, y0, "arynull@github")); y = y0 + st
     p.append(term_row(x, y, "Uptime", d["uptime"])); y += st
     p.append(term_row(x, y, "Focus", "devtools · security · automation")); y += st
     p.append(term_row(x, y, "Languages", ", ".join(n for n, _, _ in d["langs"]))); y += st
@@ -213,7 +213,7 @@ def terminal_panel(d: dict) -> list[str]:
     p.append(term_rule(x, y, "Contact")); y += st
     p.append(term_row(x, y, "Telegram", "@SameOldAryan")); y += st
     p.append(term_row(x, y, "Instagram", "@th3.rayan")); y += st
-    p.append(term_row(x, y, "GitHub", "github.com/rayanalpha")); y += st + 4
+    p.append(term_row(x, y, "GitHub", "github.com/arynull")); y += st + 4
     p.append(term_rule(x, y, "GitHub Stats")); y += st
     # two-up stats with blue numbers
     def stat_pair(y, l1, v1, l2, v2):

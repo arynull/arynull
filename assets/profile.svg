@@ -4,7 +4,7 @@
 <rect x="0" y="0" width="800" height="90" fill="#060606" stroke="#252525" stroke-width="1"/>
 <text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
 <text x="786" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
-<text x="24" y="44" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" font-weight="300" fill="#e5e5e5">rayanalpha</text>
+<text x="24" y="44" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" font-weight="300" fill="#e5e5e5">arynull</text>
 <text x="24" y="72" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c5ff4a">software engineer</text>
 <text x="776" y="44" text-anchor="end" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#7a7a7a">[ Tehran, IR ]</text>
 </g>
@@ -39,7 +39,7 @@
 <rect x="0" y="0" width="504" height="280" fill="#060606" stroke="#252525" stroke-width="1"/>
 <text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
 <text x="490" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
-<text x="24" y="30" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">──────── </tspan><tspan fill="#58a6ff">rayanalpha@github</tspan><tspan fill="#3d444d"> ─────────</tspan></text>
+<text x="24" y="30" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">────────── </tspan><tspan fill="#58a6ff">arynull@github</tspan><tspan fill="#3d444d"> ──────────</tspan></text>
 <text x="24" y="48" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Uptime:</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#c9d1d9">6 years, 0 months</tspan></text>
 <text x="24" y="66" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Focus:</tspan><tspan fill="#484f58"> ......... </tspan><tspan fill="#c9d1d9">devtools · security · automation</tspan></text>
 <text x="24" y="84" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Languages:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript, CSS, HTML</tspan></text>
@@ -47,20 +47,20 @@
 <text x="24" y="124" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">───────────── </tspan><tspan fill="#58a6ff">Contact</tspan><tspan fill="#3d444d"> ──────────────</tspan></text>
 <text x="24" y="142" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Telegram:</tspan><tspan fill="#484f58"> ......................... </tspan><tspan fill="#c9d1d9">@SameOldAryan</tspan></text>
 <text x="24" y="160" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Instagram:</tspan><tspan fill="#484f58"> ........................... </tspan><tspan fill="#c9d1d9">@th3.rayan</tspan></text>
-<text x="24" y="178" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. GitHub:</tspan><tspan fill="#484f58"> ................... </tspan><tspan fill="#c9d1d9">github.com/rayanalpha</tspan></text>
+<text x="24" y="178" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. GitHub:</tspan><tspan fill="#484f58"> ...................... </tspan><tspan fill="#c9d1d9">github.com/arynull</tspan></text>
 <text x="24" y="200" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">─────────── </tspan><tspan fill="#58a6ff">GitHub Stats</tspan><tspan fill="#3d444d"> ───────────</tspan></text>
 <text x="24" y="218" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Repos:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">9</tspan><tspan fill="#3d444d">   |   </tspan><tspan fill="#ffb800">. Stars:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">8</tspan></text>
-<text x="24" y="236" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Contrib:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">512</tspan><tspan fill="#3d444d">   |   </tspan><tspan fill="#ffb800">. Followers:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">3</tspan></text>
+<text x="24" y="236" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Contrib:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">514</tspan><tspan fill="#3d444d">   |   </tspan><tspan fill="#ffb800">. Followers:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">3</tspan></text>
 </g>
 <g transform="translate(0,400)">
 <rect x="0" y="0" width="504" height="140" fill="#060606" stroke="#252525" stroke-width="1"/>
 <text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
 <text x="490" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
 <text x="24" y="32" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
-<rect x="24.0" y="52" width="235.2" height="8" fill="#3572A5" rx="2"/>
-<rect x="259.2" y="52" width="104.3" height="8" fill="#3178c6" rx="2"/>
-<rect x="363.5" y="52" width="94.1" height="8" fill="#f1e05a" rx="2"/>
-<rect x="457.6" y="52" width="13.9" height="8" fill="#663399" rx="2"/>
+<rect x="24.0" y="52" width="235.4" height="8" fill="#3572A5" rx="2"/>
+<rect x="259.4" y="52" width="104.2" height="8" fill="#3178c6" rx="2"/>
+<rect x="363.6" y="52" width="94.1" height="8" fill="#f1e05a" rx="2"/>
+<rect x="457.7" y="52" width="13.9" height="8" fill="#663399" rx="2"/>
 <rect x="471.6" y="52" width="4.4" height="8" fill="#e34c26" rx="2"/>
 <circle cx="24" cy="80" r="4" fill="#3572A5"/>
 <text x="36" y="84" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#e5e5e5">Python<tspan fill="#7a7a7a">  51.6%</tspan></text>
