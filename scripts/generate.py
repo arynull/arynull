@@ -32,14 +32,7 @@ TXT = "#d6d6d6"      # values
 BRIGHT = "#f0f0f0"   # prompts, art
 FAINT = "#2b2b2b"    # empty bar blocks
 
-ASCII_NAME = [
-    "                                       __      __",
-    "   _________ ___  ______ _____  ____ _/ /___  / /_  ____ _",
-    "  / ___/ __ `/ / / / __ `/ __ \\/ __ `/ / __ \\/ __ \\/ __ `/",
-    " / /  / /_/ / /_/ / /_/ / / / / /_/ / / /_/ / / / / /_/ /",
-    "/_/   \\__,_/\\__, /\\__,_/_/ /_/\\__,_/_/ .___/_/ /_/\\__,_/",
-    "           /____/                   /_/",
-]
+# (portrait lives in assets/avatar.json — rendered by portrait_block)
 
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 
@@ -118,6 +111,28 @@ def fetch_data() -> dict:
 
 # ---------------------------------------------------------------- the card
 
+def portrait_block(pad: int, w: int) -> tuple[list[str], int]:
+    """Render the ASCII portrait (assets/avatar.json) with per-character
+    grayscale shading. Returns (svg elements, block height)."""
+    with open(os.path.join(OUT, "avatar.json"), encoding="utf-8") as f:
+        data = json.load(f)
+    cols, rows = data["cols"], data["rows"]
+    fs, lh, adv = 13, 17, 7.8
+    x0 = (w - cols * adv) / 2
+    els = []
+    y = pad + 6
+    for r in range(rows):
+        tspans = []
+        for c in range(cols):
+            ch = data["chars"][r][c]
+            g = data["grays"][r][c]
+            tspans.append(f'<tspan fill="#{g:02x}{g:02x}{g:02x}">{esc(ch)}</tspan>')
+        els.append(f'<text x="{x0:.0f}" y="{y:.0f}" font-family="{MONO}" font-size="{fs}">{"".join(tspans)}</text>')
+        y += lh
+    els.append(f'<text x="{w / 2:.0f}" y="{y + 12:.0f}" text-anchor="middle" font-family="{MONO}" '
+               f'font-size="12" letter-spacing="6" fill="#525252">rayanalpha</text>')
+    return els, int(y + 12 - pad)
+
 def leader(label: str, value: str, width: int = 62) -> str:
     dots = max(2, width - len(label) - len(value))
     return f"{label} {'.' * dots} {value}"
@@ -130,9 +145,7 @@ def profile_card(d: dict) -> None:
     def se(text: str = "", color: str = TXT):
         lines.append((text, color))
 
-    # ascii name
-    for a in ASCII_NAME:
-        se(a, "#a8a8a8")
+    # (portrait goes above everything — rendered separately below)
     se()
     # whoami
     se("$ whoami", BRIGHT)
@@ -169,7 +182,8 @@ def profile_card(d: dict) -> None:
     se()
 
     fs, lh, pad = 14, 24, 44
-    h = pad * 2 + len(lines) * lh + 10
+    portrait_els, portrait_h = portrait_block(pad, w)
+    h = pad * 2 + portrait_h + len(lines) * lh + 10
     p = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img">',
         "<defs>",
@@ -179,7 +193,8 @@ def profile_card(d: dict) -> None:
         "</defs>",
         f'<rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="14" fill="url(#panelg)" stroke="{BORDER}"/>',
     ]
-    y = pad + 4
+    p.extend(portrait_els)
+    y = pad + 4 + portrait_h
     chw = 8.4  # approx advance of 14px monospace
     for item in lines:
         if item[0] == "__bar__":
