@@ -1,29 +1,126 @@
-# ~ Some Words:
-A Geek
+<!-- rayanalpha / profile README -->
 
+<img src="assets/header.svg" width="100%" alt="rayanalpha — I build tools for the agent era"/>
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/th3.rayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g3ntl3man) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AryThatKid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayanextasy@gmail.com) 
+<p align="center">
+  <img src="assets/typing.svg" width="640" alt="roles"/>
+</p>
 
-#  Tech Stack:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayanalpha&style=flat-square&color=6366f1" alt="profile views"/>
+  <a href="https://github.com/rayanalpha?tab=followers"><img src="https://img.shields.io/github/followers/rayanalpha?style=flat-square&color=6366f1&label=Followers" alt="followers"/></a>
+  <img src="https://img.shields.io/badge/focus-developer%20tools%20·%20security%20·%20automation-0d1117?style=flat-square&color=0d1117" alt="focus"/>
+</p>
 
-###  Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🚀Frontend Frameworks
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%4FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=%2300DC82) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
+## 👨‍💻 About me
 
-###  Backend & APIs
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+```python
+class RayanAlpha:
+    def __init__(self):
+        self.role      = "Software Engineer"
+        self.home      = "Tehran, IR  (UTC+3:30)"
+        self.languages = ["Python", "JavaScript", "TypeScript"]
+        self.stack     = ["FastAPI", "React/Next.js", "Docker", "PostgreSQL", "Redis", "Celery"]
+        self.obsessed_with = ["developer tools", "security", "automation", "AI agents"]
+        self.currently = "shipping something new every single day"
+        self.fun_fact  = "my contribution graph never really sleeps"
 
-###  Specialized
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-0088cc?style=flat-square&logo=telegram&logoColor=white)
+    def motto(self):
+        return "Build in public. Harden everything. Automate the rest."
+```
 
-###  Tools & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat-square&logo=glitch&logoColor=white)
+> I design and ship **developer tools, security utilities and automation systems** — mostly in Python,
+> with a growing JavaScript footprint. Everything I publish is **public, tested and hardened**:
+> quality gates, independent red-team review, signed releases.
 
-###  Other
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+## 🛠️ Tech stack
 
-###  Databases & Cloud
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,fastapi,docker,postgres,redis,nginx,sqlite,linux,bash,git,github,tailwind,vscode,ffmpeg" alt="tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=flat-square" alt="Celery"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram bots"/>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🚀 Featured builds
+
+<table>
+  <tr>
+    <td><a href="https://github.com/rayanalpha/mantrap"><img src="assets/cards/projects/mantrap.svg" width="400" alt="mantrap"/></a></td>
+    <td><a href="https://github.com/rayanalpha/brushpass"><img src="assets/cards/projects/brushpass.svg" width="400" alt="brushpass"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rayanalpha/fresheyes"><img src="assets/cards/projects/fresheyes.svg" width="400" alt="fresheyes"/></a></td>
+    <td><a href="https://github.com/rayanalpha/spendfence"><img src="assets/cards/projects/spendfence.svg" width="400" alt="spendfence"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rayanalpha/logline"><img src="assets/cards/projects/logline.svg" width="400" alt="logline"/></a></td>
+    <td><a href="https://github.com/rayanalpha/factor"><img src="assets/cards/projects/factor.svg" width="400" alt="factor"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rayanalpha/Instareel"><img src="assets/cards/projects/Instareel.svg" width="400" alt="Instareel"/></a></td>
+    <td><a href="https://github.com/rayanalpha?tab=repositories"><img src="assets/cards/projects/more.svg" width="400" alt="more projects"/></a></td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📈 Analytics
+
+<p align="center">
+  <img src="assets/cards/overview.svg" width="800" alt="GitHub overview"/>
+</p>
+
+<p align="center">
+  <img src="assets/cards/languages.svg" width="800" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="assets/cards/rhythm.svg" width="800" alt="Contribution rhythm"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rayanalpha&theme=transparent&hide_border=true&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa" width="495" alt="streak stats"/>
+</p>
+
+> Cards above are **generated in-repo** — no third-party stats service.
+> They rebuild every morning via [`.github/workflows/cards.yml`](.github/workflows/cards.yml).
+
+## 🐍 Watch me work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayanalpha/rayanalpha/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayanalpha/rayanalpha/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/rayanalpha/rayanalpha/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+</picture>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🎯 Right now
+
+- 🔨 **Building daily** — one hardened release at a time, every project versioned on GitHub
+- 🧪 **Quality ritual** — pytest green, ruff clean, red-team review, SSH-signed tags before any release
+- 💡 **Idea pipeline** — harvesting ambitious project ideas daily from GitHub Trending, HN, Reddit & Product Hunt
+- 🌙 **Nightly loops** — automated strengthening passes keep every repo sharp while I sleep
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://github.com/rayanalpha"><img src="https://img.shields.io/badge/GitHub-rayanalpha-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
+  <a href="https://instagram.com/theonlyonetruex"><img src="https://img.shields.io/badge/Instagram-theonlyonetruex-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
+</p>
+
+<p align="center">
+  <i>“Talk is cheap. Ship the release.”</i>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>

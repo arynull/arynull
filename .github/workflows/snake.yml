@@ -1,0 +1,31 @@
+name: contribution-snake
+
+# Renders the contribution-grid snake animation (Platane/snk)
+# to the `output` branch, referenced by README.md.
+on:
+  schedule:
+    - cron: "0 3 * * *" # ~06:30 Asia/Tehran
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rayanalpha
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd8f3,#8dbdff,#64a1f4,#4b8ef7,#3876e0
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
