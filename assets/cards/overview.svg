@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="196" viewBox="0 0 800 196" role="img">
+<defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4a4a4a"/><stop offset="1" stop-color="#262626"/>
+    </linearGradient>
+    <linearGradient id="panelg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+<rect x="1" y="1" width="798" height="194" rx="16" fill="url(#panelg)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<rect x="1" y="1" width="798" height="5" rx="2.5" fill="url(#acc)" opacity="0.9"/>
+<text x="28" y="42" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#737373">  GITHUB OVERVIEW</text>
+<text x="102" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#d4d4d4">★</text>
+<text x="102" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e5e5e5">8</text>
+<text x="102" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#737373">TOTAL STARS</text>
+<line x1="177" y1="80" x2="177" y2="160" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<text x="251" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#a3a3a3">⑂</text>
+<text x="251" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e5e5e5">0</text>
+<text x="251" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#737373">FORKS</text>
+<line x1="326" y1="80" x2="326" y2="160" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<text x="400" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#808080">▤</text>
+<text x="400" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e5e5e5">9</text>
+<text x="400" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#737373">PUBLIC REPOS</text>
+<line x1="474" y1="80" x2="474" y2="160" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<text x="549" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#636363">◈</text>
+<text x="549" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e5e5e5">505</text>
+<text x="549" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#737373">CONTRIBUTIONS / YR</text>
+<line x1="623" y1="80" x2="623" y2="160" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<text x="698" y="96" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" fill="#525252">◐</text>
+<text x="698" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#e5e5e5">6</text>
+<text x="698" y="158" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#737373">YEARS ON GITHUB</text>
+</svg>

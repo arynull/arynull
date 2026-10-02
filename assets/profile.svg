@@ -1,79 +1,482 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="1227" viewBox="0 0 780 1227" role="img">
-<defs>
-<linearGradient id="panelg" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#101010"/><stop offset="1" stop-color="#0a0a0a"/>
-</linearGradient>
-</defs>
-<rect x="1" y="1" width="778" height="1225" rx="14" fill="url(#panelg)" stroke="rgba(255,255,255,0.09)"/>
-<text x="203" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">&#x27;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">:</tspan><tspan fill="#0a0a0a">l</tspan><tspan fill="#101010">&lt;</tspan><tspan fill="#0e0e0e">&gt;</tspan><tspan fill="#0a0a0a">;</tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="67" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">`</tspan><tspan fill="#0b0b0b">i</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0c0c0c">i</tspan><tspan fill="#2e2e2e">(</tspan><tspan fill="#939393">w</tspan><tspan fill="#777777">L</tspan><tspan fill="#242424">}</tspan><tspan fill="#bababa">a</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#b4b4b4">h</tspan><tspan fill="#878787">O</tspan><tspan fill="#545454">u</tspan><tspan fill="#333333">\</tspan><tspan fill="#3b3b3b">t</tspan><tspan fill="#222222">}</tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#424242">j</tspan><tspan fill="#111111">~</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#1e1e1e">]</tspan><tspan fill="#8f8f8f">m</tspan><tspan fill="#afafaf">k</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#dcdcdc">&amp;</tspan><tspan fill="#cecece">#</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#cecece">#</tspan><tspan fill="#c0c0c0">o</tspan><tspan fill="#838383">0</tspan><tspan fill="#595959">c</tspan><tspan fill="#111111">~</tspan><tspan fill="#111111">~</tspan><tspan fill="#191919">-</tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="101" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">.</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#111111">~</tspan><tspan fill="#292929">1</tspan><tspan fill="#adadad">b</tspan><tspan fill="#afafaf">k</tspan><tspan fill="#626262">X</tspan><tspan fill="#636363">X</tspan><tspan fill="#505050">n</tspan><tspan fill="#222222">}</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#c0c0c0">o</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#292929">1</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">:</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#131313">+</tspan><tspan fill="#2c2c2c">)</tspan><tspan fill="#a3a3a3">d</tspan><tspan fill="#d4d4d4">M</tspan><tspan fill="#dcdcdc">&amp;</tspan><tspan fill="#c9c9c9">#</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#828282">0</tspan><tspan fill="#9c9c9c">q</tspan><tspan fill="#ababab">b</tspan><tspan fill="#444444">j</tspan><tspan fill="#272727">{</tspan><tspan fill="#363636">\</tspan><tspan fill="#747474">C</tspan><tspan fill="#e4e4e4">8</tspan><tspan fill="#242424">}</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="135" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#343434">\</tspan><tspan fill="#0a0a0a">;</tspan><tspan fill="#737373">C</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#c6c6c6">*</tspan><tspan fill="#cecece">#</tspan><tspan fill="#c9c9c9">#</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#dddddd">&amp;</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#b2b2b2">h</tspan><tspan fill="#b8b8b8">a</tspan><tspan fill="#919191">m</tspan><tspan fill="#797979">L</tspan><tspan fill="#2b2b2b">)</tspan><tspan fill="#0a0a0a">`</tspan><tspan fill="#0a0a0a">;</tspan><tspan fill="#1c1c1c">?</tspan><tspan fill="#0a0a0a">!</tspan><tspan fill="#0a0a0a">I</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#606060">z</tspan><tspan fill="#363636">\</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#161616">_</tspan><tspan fill="#8a8a8a">Z</tspan><tspan fill="#d7d7d7">W</tspan><tspan fill="#d7d7d7">W</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#cecece">#</tspan><tspan fill="#8a8a8a">Z</tspan><tspan fill="#525252">u</tspan><tspan fill="#d4d4d4">M</tspan><tspan fill="#e2e2e2">8</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#e2e2e2">8</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#e4e4e4">8</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#a3a3a3">d</tspan><tspan fill="#737373">C</tspan><tspan fill="#2f2f2f">(</tspan><tspan fill="#444444">j</tspan><tspan fill="#3a3a3a">/</tspan><tspan fill="#1c1c1c">?</tspan><tspan fill="#111111">~</tspan><tspan fill="#0a0a0a">l</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">,</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="169" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#686868">Y</tspan><tspan fill="#e1e1e1">8</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#858585">O</tspan><tspan fill="#8a8a8a">Z</tspan><tspan fill="#343434">\</tspan><tspan fill="#1f1f1f">[</tspan><tspan fill="#424242">j</tspan><tspan fill="#e4e4e4">8</tspan><tspan fill="#dcdcdc">&amp;</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#dddddd">&amp;</tspan><tspan fill="#9c9c9c">q</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#cecece">#</tspan><tspan fill="#838383">0</tspan><tspan fill="#282828">1</tspan><tspan fill="#0a0a0a">,</tspan><tspan fill="#0a0a0a">.</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="186" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#1f1f1f">[</tspan><tspan fill="#c0c0c0">o</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#999999">q</tspan><tspan fill="#6b6b6b">U</tspan><tspan fill="#8e8e8e">Z</tspan><tspan fill="#515151">u</tspan><tspan fill="#292929">1</tspan><tspan fill="#606060">z</tspan><tspan fill="#797979">L</tspan><tspan fill="#adadad">b</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#777777">L</tspan><tspan fill="#939393">w</tspan><tspan fill="#e4e4e4">8</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#4c4c4c">n</tspan><tspan fill="#474747">r</tspan><tspan fill="#242424">}</tspan><tspan fill="#0a0a0a">`</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="203" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#292929">1</tspan><tspan fill="#787878">L</tspan><tspan fill="#7a7a7a">L</tspan><tspan fill="#c0c0c0">o</tspan><tspan fill="#9a9a9a">q</tspan><tspan fill="#292929">1</tspan><tspan fill="#1f1f1f">[</tspan><tspan fill="#484848">x</tspan><tspan fill="#303030">(</tspan><tspan fill="#3b3b3b">t</tspan><tspan fill="#747474">C</tspan><tspan fill="#dcdcdc">&amp;</tspan><tspan fill="#797979">L</tspan><tspan fill="#999999">q</tspan><tspan fill="#d4d4d4">M</tspan><tspan fill="#d4d4d4">M</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#e2e2e2">8</tspan><tspan fill="#919191">m</tspan><tspan fill="#7e7e7e">Q</tspan><tspan fill="#4d4d4d">n</tspan><tspan fill="#0a0a0a">l</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">.</tspan><tspan fill="#1b1b1b">?</tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#545454">u</tspan><tspan fill="#2d2d2d">)</tspan><tspan fill="#8b8b8b">Z</tspan><tspan fill="#464646">r</tspan><tspan fill="#3b3b3b">t</tspan><tspan fill="#2d2d2d">)</tspan><tspan fill="#222222">}</tspan><tspan fill="#1a1a1a">?</tspan><tspan fill="#737373">C</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#969696">w</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#b5b5b5">h</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#dcdcdc">&amp;</tspan><tspan fill="#4a4a4a">x</tspan><tspan fill="#0a0a0a">&#x27;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="237" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#1e1e1e">]</tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#474747">r</tspan><tspan fill="#0a0a0a">:</tspan><tspan fill="#0e0e0e">&gt;</tspan><tspan fill="#626262">X</tspan><tspan fill="#515151">u</tspan><tspan fill="#6e6e6e">J</tspan><tspan fill="#b2b2b2">h</tspan><tspan fill="#8e8e8e">Z</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#cfcfcf">M</tspan><tspan fill="#747474">C</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#292929">1</tspan><tspan fill="#2e2e2e">(</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#2b2b2b">)</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="254" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#0a0a0a">&#x27;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0c0c0c">i</tspan><tspan fill="#404040">f</tspan><tspan fill="#4a4a4a">x</tspan><tspan fill="#c3c3c3">o</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#7d7d7d">Q</tspan><tspan fill="#b8b8b8">a</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#b5b5b5">h</tspan><tspan fill="#292929">1</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">l</tspan><tspan fill="#c1c1c1">o</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#3e3e3e">f</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="271" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">.</tspan><tspan fill="#0a0a0a">:</tspan><tspan fill="#121212">~</tspan><tspan fill="#121212">~</tspan><tspan fill="#6b6b6b">U</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#a5a5a5">d</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#0f0f0f">&lt;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">`</tspan><tspan fill="#adadad">b</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#999999">q</tspan><tspan fill="#0a0a0a">&#x27;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="288" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">`</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#2d2d2d">)</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#dddddd">&amp;</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#e4e4e4">8</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#bababa">a</tspan><tspan fill="#999999">q</tspan><tspan fill="#7e7e7e">Q</tspan><tspan fill="#0a0a0a">;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#222222">}</tspan><tspan fill="#4a4a4a">x</tspan><tspan fill="#444444">j</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#bbbbbb">a</tspan><tspan fill="#0a0a0a">;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="305" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0c0c0c">i</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#dddddd">&amp;</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#969696">w</tspan><tspan fill="#c0c0c0">o</tspan><tspan fill="#e1e1e1">8</tspan><tspan fill="#434343">j</tspan><tspan fill="#505050">n</tspan><tspan fill="#303030">(</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#272727">{</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#939393">w</tspan><tspan fill="#d7d7d7">W</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="322" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">,</tspan><tspan fill="#d5d5d5">W</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#a5a5a5">d</tspan><tspan fill="#cfcfcf">M</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#cecece">#</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#585858">c</tspan><tspan fill="#969696">w</tspan><tspan fill="#999999">q</tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#727272">C</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#e1e1e1">8</tspan><tspan fill="#5e5e5e">z</tspan><tspan fill="#c6c6c6">*</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#4c4c4c">n</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="339" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#686868">Y</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#c9c9c9">#</tspan><tspan fill="#cfcfcf">M</tspan><tspan fill="#c7c7c7">*</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#cecece">#</tspan><tspan fill="#afafaf">k</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#191919">-</tspan><tspan fill="#d4d4d4">M</tspan><tspan fill="#606060">z</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#7f7f7f">Q</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#464646">r</tspan><tspan fill="#555555">v</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#a7a7a7">d</tspan><tspan fill="#7e7e7e">Q</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="356" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">&#x27;</tspan><tspan fill="#8b8b8b">Z</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#e1e1e1">8</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#cfcfcf">M</tspan><tspan fill="#c1c1c1">o</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#3e3e3e">f</tspan><tspan fill="#6b6b6b">U</tspan><tspan fill="#999999">q</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#9a9a9a">q</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#1a1a1a">?</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#a3a3a3">d</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#898989">O</tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="373" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#181818">-</tspan><tspan fill="#c1c1c1">o</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#dcdcdc">&amp;</tspan><tspan fill="#cfcfcf">M</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#a7a7a7">d</tspan><tspan fill="#8a8a8a">Z</tspan><tspan fill="#b8b8b8">a</tspan><tspan fill="#2b2b2b">)</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">,</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#adadad">b</tspan><tspan fill="#0a0a0a">;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#505050">n</tspan><tspan fill="#afafaf">k</tspan><tspan fill="#0f0f0f">&lt;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="390" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">l</tspan><tspan fill="#737373">C</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">@</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#c9c9c9">#</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#bebebe">o</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#7d7d7d">Q</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#9d9d9d">q</tspan><tspan fill="#e9e9e9">%</tspan><tspan fill="#181818">-</tspan><tspan fill="#0f0f0f">&lt;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#1d1d1d">]</tspan><tspan fill="#0b0b0b">i</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="407" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#1e1e1e">]</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#c9c9c9">#</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#d2d2d2">M</tspan><tspan fill="#a3a3a3">d</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#515151">u</tspan><tspan fill="#bababa">a</tspan><tspan fill="#5e5e5e">z</tspan><tspan fill="#8e8e8e">Z</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#dadada">&amp;</tspan><tspan fill="#0a0a0a">l</tspan><tspan fill="#6b6b6b">U</tspan><tspan fill="#ebebeb">$</tspan><tspan fill="#373737">/</tspan><tspan fill="#8e8e8e">Z</tspan><tspan fill="#424242">j</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">&quot;</tspan><tspan fill="#0a0a0a">,</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="203" y="424" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">`</tspan><tspan fill="#ababab">b</tspan><tspan fill="#eaeaea">%</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#ebebeb">B</tspan><tspan fill="#8e8e8e">Z</tspan><tspan fill="#525252">u</tspan><tspan fill="#e7e7e7">%</tspan><tspan fill="#e4e4e4">8</tspan><tspan fill="#898989">O</tspan><tspan fill="#5a5a5a">c</tspan><tspan fill="#606060">z</tspan><tspan fill="#0a0a0a">.</tspan><tspan fill="#0a0a0a">^</tspan><tspan fill="#777777">L</tspan><tspan fill="#121212">~</tspan><tspan fill="#424242">j</tspan><tspan fill="#838383">0</tspan><tspan fill="#878787">O</tspan><tspan fill="#333333">|</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#3e3e3e">f</tspan><tspan fill="#c7c7c7">*</tspan><tspan fill="#242424">}</tspan><tspan fill="#cccccc">#</tspan><tspan fill="#151515">+</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a">.</tspan><tspan fill="#0a0a0a">&#x27;</tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan><tspan fill="#0a0a0a"> </tspan></text>
-<text x="390" y="453" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="6" fill="#525252">rayanalpha</text>
-<text x="44" y="457" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#d6d6d6"></text>
-<text x="44" y="481" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f0f0">$<tspan fill="#5c5c5c"> whoami</tspan></text>
-<text x="44" y="505" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  role ......................................... software engineer</text>
-<text x="44" y="529" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  focus ......................... devtools · security · automation</text>
-<text x="44" y="553" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  base ..................................... tehran, ir — utc+3:30</text>
-<text x="44" y="577" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#d6d6d6"></text>
-<text x="44" y="601" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f0f0">$<tspan fill="#5c5c5c"> stats --year</tspan></text>
-<text x="44" y="625" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  stars ........................................................ 8</text>
-<text x="44" y="649" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  repositories ................................................. 9</text>
-<text x="44" y="673" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  contributions .............................................. 510</text>
-<text x="44" y="697" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  years on github .............................................. 6</text>
-<text x="44" y="721" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#d6d6d6"></text>
-<text x="44" y="745" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f0f0">$<tspan fill="#5c5c5c"> langs --top</tspan></text>
-<text x="44" y="769" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  Python     </text>
-<rect x="153" y="760" width="200" height="11" rx="3" fill="#1e1e1e"/>
-<rect x="153" y="760" width="103" height="11" rx="3" fill="#b5b5b5"/>
-<text x="365" y="769" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f"> 51.6%</text>
-<text x="44" y="793" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  TypeScript </text>
-<rect x="153" y="784" width="200" height="11" rx="3" fill="#1e1e1e"/>
-<rect x="153" y="784" width="46" height="11" rx="3" fill="#b5b5b5"/>
-<text x="365" y="793" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f"> 22.9%</text>
-<text x="44" y="817" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  JavaScript </text>
-<rect x="153" y="808" width="200" height="11" rx="3" fill="#1e1e1e"/>
-<rect x="153" y="808" width="41" height="11" rx="3" fill="#b5b5b5"/>
-<text x="365" y="817" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f"> 20.6%</text>
-<text x="44" y="841" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  CSS        </text>
-<rect x="153" y="832" width="200" height="11" rx="3" fill="#1e1e1e"/>
-<rect x="153" y="832" width="6" height="11" rx="3" fill="#b5b5b5"/>
-<text x="365" y="841" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  3.1%</text>
-<text x="44" y="865" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  HTML       </text>
-<rect x="153" y="856" width="200" height="11" rx="3" fill="#1e1e1e"/>
-<rect x="153" y="856" width="3" height="11" rx="3" fill="#b5b5b5"/>
-<text x="365" y="865" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  1.0%</text>
-<text x="44" y="889" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#d6d6d6"></text>
-<text x="44" y="913" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f0f0">$<tspan fill="#5c5c5c"> ls ~/builds</tspan></text>
-<text x="44" y="937" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  mantrap/                            brushpass/</text>
-<text x="44" y="961" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  fresheyes/                          spendfence/</text>
-<text x="44" y="985" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  logline/                            factor/</text>
-<text x="44" y="1009" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8f8f8f">  Instareel/</text>
-<text x="44" y="1033" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#d6d6d6"></text>
-<text x="44" y="1057" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f0f0">$<tspan fill="#5c5c5c"> cat contact.txt</tspan></text>
-<text x="44" y="1081" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  github .............................................. rayanalpha</text>
-<text x="44" y="1105" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  telegram ......................................... @SameOldAryan</text>
-<text x="44" y="1129" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5c5c5c">  instagram ........................................... @th3.rayan</text>
-<text x="44" y="1153" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#d6d6d6"></text>
-<text x="44" y="1177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f0f0">$</text>
-<rect x="58" y="1165" width="9" height="16" fill="#f0f0f0" opacity="0.85"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="782" viewBox="0 0 800 782" role="img">
+<rect width="800" height="782" fill="#060606"/>
+<g transform="translate(0,0)">
+<rect x="0" y="0" width="800" height="90" fill="#060606" stroke="#252525" stroke-width="1"/>
+<text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="786" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="24" y="44" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" font-weight="300" fill="#e5e5e5">rayanalpha</text>
+<text x="24" y="72" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c5ff4a">software engineer</text>
+<text x="776" y="44" text-anchor="end" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#7a7a7a">[ Tehran, IR ]</text>
+</g>
+<g transform="translate(0,106)">
+<rect x="0" y="0" width="280" height="280" fill="#060606" stroke="#252525" stroke-width="1"/>
+<text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="266" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="18.5" y="24.0" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                                             </text>
+<text x="18.5" y="35.3" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                      .*.*##*...             </text>
+<text x="18.5" y="46.5" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                  .   .**######*. .          </text>
+<text x="18.5" y="57.8" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                ..#***..############         </text>
+<text x="18.5" y="69.1" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">              .##############..*   *#        </text>
+<text x="18.5" y="80.4" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">           . *############**..      .        </text>
+<text x="18.5" y="91.6" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">            *###**..#######*...              </text>
+<text x="18.5" y="102.9" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">            .#****. *###*####*.              </text>
+<text x="18.5" y="114.2" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">             *#**.....#*.####...             </text>
+<text x="18.5" y="125.5" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">            ...**... .***######.             </text>
+<text x="18.5" y="136.7" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">              . *.....**##**#.##*            </text>
+<text x="18.5" y="148.0" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                   ..*####*#*. *#.           </text>
+<text x="18.5" y="159.3" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                     *###*###.  .#*          </text>
+<text x="18.5" y="170.5" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                   .*#######*    .##         </text>
+<text x="18.5" y="181.8" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                   #######*#..  ...##        </text>
+<text x="18.5" y="193.1" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                  ##*#######.** *##.##       </text>
+<text x="18.5" y="204.4" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                 .#*####*###.** *#.##*       </text>
+<text x="18.5" y="215.6" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">                .#######*##*.#  ## .##.      </text>
+<text x="18.5" y="226.9" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">               *###########.#.  #*   #.      </text>
+<text x="18.5" y="238.2" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">             .###############* *#     .      </text>
+<text x="18.5" y="249.5" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">            ######*##***.#### .#.*           </text>
+<text x="18.5" y="260.7" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">           .###*.##**. ...**. .*.#           </text>
+</g>
+<g transform="translate(296,106)">
+<rect x="0" y="0" width="504" height="280" fill="#060606" stroke="#252525" stroke-width="1"/>
+<text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="490" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="24" y="30" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">──────── </tspan><tspan fill="#58a6ff">rayanalpha@github</tspan><tspan fill="#3d444d"> ─────────</tspan></text>
+<text x="24" y="48" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Uptime:</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#c9d1d9">6 years, 0 months</tspan></text>
+<text x="24" y="66" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Focus:</tspan><tspan fill="#484f58"> ......... </tspan><tspan fill="#c9d1d9">devtools · security · automation</tspan></text>
+<text x="24" y="84" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Languages:</tspan><tspan fill="#484f58"> .. </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript, CSS, HTML</tspan></text>
+<text x="24" y="102" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Joined:</tspan><tspan fill="#484f58"> ................................ </tspan><tspan fill="#c9d1d9">Oct 2020</tspan></text>
+<text x="24" y="124" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">───────────── </tspan><tspan fill="#58a6ff">Contact</tspan><tspan fill="#3d444d"> ──────────────</tspan></text>
+<text x="24" y="142" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Telegram:</tspan><tspan fill="#484f58"> ......................... </tspan><tspan fill="#c9d1d9">@SameOldAryan</tspan></text>
+<text x="24" y="160" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Instagram:</tspan><tspan fill="#484f58"> ........................... </tspan><tspan fill="#c9d1d9">@th3.rayan</tspan></text>
+<text x="24" y="178" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. GitHub:</tspan><tspan fill="#484f58"> ................... </tspan><tspan fill="#c9d1d9">github.com/rayanalpha</tspan></text>
+<text x="24" y="200" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#3d444d">─────────── </tspan><tspan fill="#58a6ff">GitHub Stats</tspan><tspan fill="#3d444d"> ───────────</tspan></text>
+<text x="24" y="218" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Repos:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">9</tspan><tspan fill="#3d444d">   |   </tspan><tspan fill="#ffb800">. Stars:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">8</tspan></text>
+<text x="24" y="236" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14"><tspan fill="#ffb800">. Contrib:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">512</tspan><tspan fill="#3d444d">   |   </tspan><tspan fill="#ffb800">. Followers:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#79c0ff">3</tspan></text>
+</g>
+<g transform="translate(0,400)">
+<rect x="0" y="0" width="504" height="140" fill="#060606" stroke="#252525" stroke-width="1"/>
+<text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="490" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="24" y="32" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
+<rect x="24.0" y="52" width="235.2" height="8" fill="#3572A5" rx="2"/>
+<rect x="259.2" y="52" width="104.3" height="8" fill="#3178c6" rx="2"/>
+<rect x="363.5" y="52" width="94.1" height="8" fill="#f1e05a" rx="2"/>
+<rect x="457.6" y="52" width="13.9" height="8" fill="#663399" rx="2"/>
+<rect x="471.6" y="52" width="4.4" height="8" fill="#e34c26" rx="2"/>
+<circle cx="24" cy="80" r="4" fill="#3572A5"/>
+<text x="36" y="84" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#e5e5e5">Python<tspan fill="#7a7a7a">  51.6%</tspan></text>
+<circle cx="260" cy="80" r="4" fill="#3178c6"/>
+<text x="272" y="84" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#e5e5e5">TypeScript<tspan fill="#7a7a7a">  22.9%</tspan></text>
+<circle cx="24" cy="104" r="4" fill="#f1e05a"/>
+<text x="36" y="108" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#e5e5e5">JavaScript<tspan fill="#7a7a7a">  20.6%</tspan></text>
+<circle cx="260" cy="104" r="4" fill="#663399"/>
+<text x="272" y="108" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#e5e5e5">CSS<tspan fill="#7a7a7a">  3.1%</tspan></text>
+<circle cx="24" cy="128" r="4" fill="#e34c26"/>
+<text x="36" y="132" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="12" fill="#e5e5e5">HTML<tspan fill="#7a7a7a">  1.0%</tspan></text>
+</g>
+<g transform="translate(520,400)">
+<rect x="0" y="0" width="280" height="140" fill="#060606" stroke="#252525" stroke-width="1"/>
+<text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="266" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="24" y="32" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TECHNOLOGIES &amp; SKILLS ]</text>
+<rect x="24" y="48" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="60" y="65" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">Python</text>
+<rect x="106" y="48" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="142" y="65" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">TypeScript</text>
+<rect x="188" y="48" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="224" y="65" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">JavaScript</text>
+<rect x="24" y="84" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="60" y="101" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">FastAPI</text>
+<rect x="106" y="84" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="142" y="101" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">Docker</text>
+<rect x="188" y="84" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="224" y="101" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">PostgreSQL</text>
+<rect x="24" y="120" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="60" y="137" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">Redis</text>
+<rect x="106" y="120" width="72" height="26" fill="#060606" stroke="#252525"/>
+<text x="142" y="137" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#e5e5e5">React</text>
+</g>
+<g transform="translate(0,554)">
+<rect x="0" y="0" width="800" height="228" fill="#060606" stroke="#252525" stroke-width="1"/>
+<text x="6" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="786" y="14" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#c5ff4a">+</text>
+<text x="24" y="32" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ CONTRIBUTIONS ]</text>
+<rect x="24" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="24" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="24" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="24" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="24" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="24" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="24" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="38" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="38" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="38" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="38" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="38" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="38" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="38" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="52" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="66" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="80" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="94" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="94" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="94" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="94" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="94" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="94" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="94" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="108" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="122" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="136" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="150" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="164" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="178" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="178" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="178" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="178" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="178" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="178" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="178" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="192" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="192" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="192" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="192" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="192" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="192" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="192" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="206" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="206" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="206" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="206" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="206" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="206" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="206" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="220" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="220" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="220" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="220" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="220" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="220" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="220" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="234" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="248" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="262" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="276" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="290" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="304" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="318" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="318" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="318" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="318" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="318" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="318" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="318" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="332" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="346" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="360" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="374" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="388" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="402" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="416" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="430" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="444" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="444" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="444" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="444" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="444" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="444" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="444" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="458" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="458" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="458" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="458" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="458" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="458" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="458" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="472" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="486" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="500" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="514" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="514" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="514" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="514" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="514" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="514" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="514" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="528" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="528" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="528" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="528" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="528" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="528" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="528" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="542" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="542" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="542" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="542" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="542" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="542" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="542" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="556" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="570" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="584" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="584" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="584" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="584" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="584" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="584" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="584" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="598" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="612" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="612" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="612" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="612" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="612" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="612" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="612" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="626" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="626" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="626" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="626" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="626" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="626" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="626" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="640" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="640" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="640" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="640" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="640" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="640" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="640" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="654" y="58" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="654" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="654" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="654" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="654" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="654" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="654" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="668" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="668" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="668" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="668" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="668" y="114" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="668" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="668" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="682" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="682" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="682" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="682" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="682" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="682" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="682" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="696" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="696" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="696" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="696" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="696" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="696" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="696" y="142" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="710" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="710" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="710" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="710" y="100" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="710" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="710" y="128" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="710" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="724" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="724" y="72" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="724" y="86" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="724" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="724" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="724" y="128" width="11" height="11" fill="#034525" rx="2"/>
+<rect x="724" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="738" y="58" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="738" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="738" y="86" width="11" height="11" fill="#034525" rx="2"/>
+<rect x="738" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="738" y="114" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="738" y="128" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="738" y="142" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="752" y="58" width="11" height="11" fill="#00c647" rx="2"/>
+<rect x="752" y="72" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="752" y="86" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="752" y="100" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="752" y="114" width="11" height="11" fill="#00c647" rx="2"/>
+<rect x="752" y="128" width="11" height="11" fill="#00c647" rx="2"/>
+<rect x="752" y="142" width="11" height="11" fill="#034525" rx="2"/>
+<text x="650" y="178" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="11" fill="#7a7a7a">Less</text>
+<rect x="688" y="169" width="11" height="11" fill="#161b22" rx="2"/>
+<rect x="702" y="169" width="11" height="11" fill="#01311f" rx="2"/>
+<rect x="716" y="169" width="11" height="11" fill="#034525" rx="2"/>
+<rect x="730" y="169" width="11" height="11" fill="#0f6d31" rx="2"/>
+<rect x="744" y="169" width="11" height="11" fill="#00c647" rx="2"/>
+<text x="766" y="178" font-family="'Inter Tight',system-ui,-apple-system,sans-serif" font-size="11" fill="#7a7a7a">More</text>
+</g>
 </svg>
