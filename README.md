@@ -1,7 +1,5 @@
 <!-- rayanalpha / profile README -->
 
-<img src="assets/header.svg" width="100%" alt="rayanalpha"/>
-
 <p align="center">
   <code>python · javascript · typescript · fastapi · docker · postgres · redis · celery</code>
 </p>
@@ -31,10 +29,6 @@
 
 <p align="center">
   <img src="assets/cards/rhythm.svg" width="100%" alt="rhythm"/>
-</p>
-
-<p align="center">
-  <img src="assets/cards/transmission.svg" width="100%" alt="transmission"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
