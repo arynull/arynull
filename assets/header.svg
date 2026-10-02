@@ -55,14 +55,13 @@
   <!-- headline -->
   <text x="600" y="168" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="92" font-weight="800" letter-spacing="2" fill="url(#name)">rayanalpha</text>
   <text x="600" y="216" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="22" fill="#cbd5e1" letter-spacing="1">I build tools for the agent era</text>
-  <text x="600" y="252" text-anchor="middle" font-family="system-ui,'Segoe UI',Tahoma,sans-serif" font-size="19" fill="#94a3b8">سلام! 👋</text>
 
   <!-- status chips -->
   <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#a5b4fc">
-    <rect x="470" y="282" width="120" height="30" rx="15" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/>
-    <text x="530" y="302" text-anchor="middle" fill="#67e8f9">◉ shipping</text>
-    <rect x="610" y="282" width="130" height="30" rx="15" fill="none" stroke="#a78bfa" stroke-opacity="0.5"/>
-    <text x="675" y="302" text-anchor="middle" fill="#c4b5fd">✦ open source</text>
+    <rect x="470" y="268" width="120" height="30" rx="15" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/>
+    <text x="530" y="288" text-anchor="middle" fill="#67e8f9">◉ shipping</text>
+    <rect x="610" y="268" width="130" height="30" rx="15" fill="none" stroke="#a78bfa" stroke-opacity="0.5"/>
+    <text x="675" y="288" text-anchor="middle" fill="#c4b5fd">✦ open source</text>
   </g>
 
   <!-- animated waves -->

@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="rayanalpha — I build tools for the agent era"/>
 
 <p align="center">
-  <img src="assets/typing.svg" width="640" alt="roles"/>
+  <img src="assets/typing.svg" width="100%" alt="roles"/>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ class RayanAlpha:
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,fastapi,docker,postgres,redis,nginx,sqlite,linux,bash,git,github,tailwind,vscode,ffmpeg" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,fastapi,docker,postgres,redis,nginx,sqlite,linux,bash,git,github,tailwind,vscode,ffmpeg" width="100%" alt="tech stack"/>
 </p>
 
 <p align="center">
@@ -53,43 +53,32 @@ class RayanAlpha:
 
 ## 🚀 Featured builds
 
-<table>
-  <tr>
-    <td><a href="https://github.com/rayanalpha/mantrap"><img src="assets/cards/projects/mantrap.svg" width="400" alt="mantrap"/></a></td>
-    <td><a href="https://github.com/rayanalpha/brushpass"><img src="assets/cards/projects/brushpass.svg" width="400" alt="brushpass"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rayanalpha/fresheyes"><img src="assets/cards/projects/fresheyes.svg" width="400" alt="fresheyes"/></a></td>
-    <td><a href="https://github.com/rayanalpha/spendfence"><img src="assets/cards/projects/spendfence.svg" width="400" alt="spendfence"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rayanalpha/logline"><img src="assets/cards/projects/logline.svg" width="400" alt="logline"/></a></td>
-    <td><a href="https://github.com/rayanalpha/factor"><img src="assets/cards/projects/factor.svg" width="400" alt="factor"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rayanalpha/Instareel"><img src="assets/cards/projects/Instareel.svg" width="400" alt="Instareel"/></a></td>
-    <td><a href="https://github.com/rayanalpha?tab=repositories"><img src="assets/cards/projects/more.svg" width="400" alt="more projects"/></a></td>
-  </tr>
-</table>
+<!-- Two-up on desktop, wraps gracefully on narrow screens — no horizontal scroll. -->
+<p align="center">
+  <a href="https://github.com/rayanalpha/mantrap"><img src="assets/cards/projects/mantrap.svg" width="49%" alt="mantrap"/></a><a href="https://github.com/rayanalpha/brushpass"><img src="assets/cards/projects/brushpass.svg" width="49%" alt="brushpass"/></a><br/>
+  <a href="https://github.com/rayanalpha/fresheyes"><img src="assets/cards/projects/fresheyes.svg" width="49%" alt="fresheyes"/></a><a href="https://github.com/rayanalpha/spendfence"><img src="assets/cards/projects/spendfence.svg" width="49%" alt="spendfence"/></a><br/>
+  <a href="https://github.com/rayanalpha/logline"><img src="assets/cards/projects/logline.svg" width="49%" alt="logline"/></a><a href="https://github.com/rayanalpha/factor"><img src="assets/cards/projects/factor.svg" width="49%" alt="factor"/></a><br/>
+  <a href="https://github.com/rayanalpha/Instareel"><img src="assets/cards/projects/Instareel.svg" width="49%" alt="Instareel"/></a><a href="https://github.com/rayanalpha?tab=repositories"><img src="assets/cards/projects/more.svg" width="49%" alt="more projects"/></a>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📈 Analytics
 
 <p align="center">
-  <img src="assets/cards/overview.svg" width="800" alt="GitHub overview"/>
+  <img src="assets/cards/overview.svg" width="100%" alt="GitHub overview"/>
 </p>
 
 <p align="center">
-  <img src="assets/cards/languages.svg" width="800" alt="Top languages"/>
+  <img src="assets/cards/languages.svg" width="100%" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="assets/cards/rhythm.svg" width="800" alt="Contribution rhythm"/>
+  <img src="assets/cards/rhythm.svg" width="100%" alt="Contribution rhythm"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rayanalpha&theme=transparent&hide_border=true&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa" width="495" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=rayanalpha&theme=transparent&hide_border=true&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa" width="100%" alt="streak stats"/>
 </p>
 
 > Cards above are **generated in-repo** — no third-party stats service.
