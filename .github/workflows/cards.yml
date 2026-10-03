@@ -27,10 +27,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit refreshed cards
+      - name: Commit refreshed card
         run: |
           git config user.name "rayanalpha"
           git config user.email "73559226+rayanalpha@users.noreply.github.com"
-          git add assets/cards
-          git diff --cached --quiet || git commit -m "chore: refresh profile stat cards"
+          git add assets/profile.svg
+          git diff --cached --quiet || git commit -m "chore: refresh profile card"
           git push
